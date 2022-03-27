@@ -1,3 +1,3 @@
-Nama  :Ari Nugrohojati
-NIM   :312010366
-Kelas :TI.20.A.2
+Nama  :Ari Nugrohojati<br>
+NIM   :312010366<br>
+Kelas :TI.20.A.2<br>
